@@ -11,5 +11,7 @@ This is part of my **Week 3 Machine Learning Math Exploration**. I gained a clea
 
 ## 📊 Visual Output
 
+<img width="1367" height="740" alt="Screenshot 2025-07-30 140504" src="https://github.com/user-attachments/assets/282a28f6-8edb-43c2-9b96-b67cabb0dcbd" />
+
 <img width="1627" height="665" alt="Screenshot 2025-07-30 140443" src="https://github.com/user-attachments/assets/41215647-39b8-40c6-b6b1-03afcf30d722" />
 
